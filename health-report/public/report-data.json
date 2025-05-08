@@ -1,0 +1,379 @@
+{
+    "name": "Json.CN",
+    "time": "2025-04-10 12:00:00",
+    "baseurl": "http://www.kdy.com/Json.CN/2025-04-10 12:00:00",
+    "age": 28,
+    "sex": "男",
+    "organ_energy": [
+        {
+            "name": "EA_2025_03_28 主干脐水平的横向截面.jpg",
+            "url": "http://www.kdy.com/Json.CN/2025-04-10_12_00_00/"
+        },
+        {
+            "name": "EA_2025_03_28 主干脐水平的横向截面.jpg",
+            "url": "http://www.kdy.com/Json.CN/2025-04-10_12_00_00/"
+        },
+        {
+            "name": "EA_2025_03_28 主干脐水平的横向截面.jpg",
+            "url": "http://www.kdy.com/Json.CN/2025-04-10_12_00_00/"
+        },
+        {
+            "name": "EA_2025_03_28 主干脐水平的横向截面.jpg",
+            "url": "http://www.kdy.com/Json.CN/2025-04-10_12_00_00/"
+        },
+        {
+            "name": "EA_2025_03_28 主干脐水平的横向截面.jpg",
+            "url": "http://www.kdy.com/Json.CN/2025-04-10_12_00_00/"
+        }
+    ],
+    "energy_diagram_explanation": {
+        "name": "EA_2025_03_28 主干脐水平的横向截面.jpg",
+        "url": "http://www.kdy.com/Json.CN/2025-04-10_12_00_00/"
+    },
+    "organ": {
+        "reference_range": [
+            {
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "中"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "低"
+            }
+        ],
+        "filter_project": [
+            {
+                "name": "水晶体",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "水晶体",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "水晶体",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "水晶体",
+                "d_value": "4.291",
+                "resule": "重"
+            }
+        ]
+    },
+    "Physiological_system": {
+        "respiratory_system": {
+            "reference_range": [
+                {
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "d_value": "4.291",
+                    "resule": "中"
+                },
+                {
+                    "d_value": "4.291",
+                    "resule": "低"
+                }
+            ],
+            "filter_project": [
+                {
+                    "name": "呼吸道感染",
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "name": "呼吸道感染",
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "name": "呼吸道感染",
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "name": "呼吸道感染",
+                    "d_value": "4.291",
+                    "resule": "重"
+                }
+            ]
+        },
+        "sensory_system": {
+            "reference_range": [
+                {
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "d_value": "4.291",
+                    "resule": "中"
+                },
+                {
+                    "d_value": "4.291",
+                    "resule": "低"
+                }
+            ],
+            "filter_project": [
+                {
+                    "name": "近视",
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "name": "近视",
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "name": "近视",
+                    "d_value": "4.291",
+                    "resule": "重"
+                },
+                {
+                    "name": "近视",
+                    "d_value": "4.291",
+                    "resule": "重"
+                }
+            ]
+        }
+    },
+    "urogenital_system": {
+        "reference_range": [
+            {
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "中"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "低"
+            }
+        ],
+        "filter_project": [
+            {
+                "name": "尿路结石",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "尿路结石",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "尿路结石",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "尿路结石",
+                "d_value": "4.291",
+                "resule": "重"
+            }
+        ]
+    },
+    "urinary_system": {
+        "reference_range": [
+            {
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "中"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "低"
+            }
+        ],
+        "filter_project": [
+            {
+                "name": "尿酸结石",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "尿酸结石",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "尿酸结石",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "尿酸结石",
+                "d_value": "4.291",
+                "resule": "重"
+            }
+        ]
+    },
+    "digestive_system": {
+        "reference_range": [
+            {
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "中"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "低"
+            }
+        ],
+        "filter_project": [
+            {
+                "name": "胆管炎",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "慢性胆囊",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "慢性胆囊",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "慢性胆囊",
+                "d_value": "4.291",
+                "resule": "重"
+            }
+        ]
+    },
+    "musculoskeletal_system": {
+        "reference_range": [
+            {
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "中"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "低"
+            }
+        ],
+        "filter_project": [
+            {
+                "name": "近软骨",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "脊柱软骨",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "骨质疏松",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "椎间盘突出",
+                "d_value": "4.291",
+                "resule": "重"
+            }
+        ]
+    },
+    "microbial_worms": {
+        "reference_range": [
+            {
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "中"
+            },
+            {
+                "d_value": "4.291",
+                "resule": "低"
+            }
+        ],
+        "filter_project": [
+            {
+                "name": "鼻病毒",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "冠状病毒",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "水冠状病毒晶体",
+                "d_value": "4.291",
+                "resule": "重"
+            },
+            {
+                "name": "冠状病毒",
+                "d_value": "4.291",
+                "resule": "重"
+            }
+        ]
+    },
+    "foods": {
+        "filter_project": [
+            {
+                "name": "青豆",
+                "d_value": "4.291"
+            },
+            {
+                "name": "黄瓜",
+                "d_value": "4.291"
+            },
+            {
+                "name": "南瓜",
+                "d_value": "4.291"
+            },
+            {
+                "name": "牛肝",
+                "d_value": "4.291"
+            }
+        ]
+    },
+    "mineral": {
+        "filter_project": [
+            {
+                "name": "电气石",
+                "d_value": "4.291"
+            },
+            {
+                "name": "黑矿石",
+                "d_value": "4.291"
+            },
+            {
+                "name": "鸡血石",
+                "d_value": "4.291"
+            },
+            {
+                "name": "石榴石",
+                "d_value": "4.291"
+            }
+        ]
+    }
+}
